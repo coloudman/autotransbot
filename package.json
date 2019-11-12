@@ -1,0 +1,27 @@
+{
+  "name": "autotrans",
+  "version": "1.0.0",
+  "description": "auto trans bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coloudman/autotransbot.git"
+  },
+  "keywords": [
+    "auto",
+    "hangul"
+  ],
+  "author": "Coloud",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/coloudman/autotransbot/issues"
+  },
+  "homepage": "https://github.com/coloudman/autotransbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "inko": "^1.1.1"
+  }
+}
